@@ -1,0 +1,26 @@
+[
+    {
+        "username": "Itay",
+        "password": "nothanks",
+        "admin": true,
+        "muted": false
+    },
+    {
+        "username": "assaf",
+        "password": "shalom",
+        "admin": false,
+        "muted": false
+    },
+    {
+        "username": "Yoni",
+        "password": "anigay",
+        "admin": true,
+        "muted": false
+    },
+    {
+        "username": "Menny",
+        "password": "mennyab",
+        "admin": false,
+        "muted": false
+    }
+]
